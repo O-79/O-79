@@ -6,11 +6,10 @@ I'm exploring the ways of prompt engineering with AI to create custom tools whic
 
 <details>
  <summary>Read more</summary>
- <code>
+ <pre>
  ^__^
  (oo)\_______
  (__)\       )\/\
      ||----w |
-     ||     ||
- </code>
+     ||     ||</pre>
 </details>
