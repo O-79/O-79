@@ -1,6 +1,6 @@
 ### Hey, I'm Adi
 
-![My Website](o-79.github.io)
+![My Website](https://o-79.github.io/)
 
 On my GitHub profile you can find the projects I've been working on through my internships and personal endeavors thus far.
 
