@@ -13,6 +13,5 @@ I'm also exploring the ways of prompt engineering with AI to create custom tools
  (oo)\_______
  (__)\       )\/\
      ||----w |
-     ||     ||
- </pre>
+     ||     ||</pre>
 </details>
