@@ -9,6 +9,6 @@
 [![Career Tree](https://img.shields.io/badge/Career_Tree-30B0F0?style=for-the-badge&logo=openai)](https://github.com/O-79/CareerTree-py)
 
 ### Past Projects
-[![Image-Edit](https://img.shields.io/badge/Image_Edit-C0C0C0?style=for-the-badge&logo=opencv)](https://github.com/O-79/Image-Edit)
-[![Sonic-Edit](https://img.shields.io/badge/Sonic_Edit-C0C0C0?style=for-the-badge&logo=scipy)](https://github.com/O-79/Sonic-Edit)
-[![Scraping Extension](https://img.shields.io/badge/Scraping_Extension-C0C0C0?style=for-the-badge&logo=googlechrome)](https://github.com/O-79/SCRAPE_CHROME)
+[![Image-Edit](https://img.shields.io/badge/Image_Edit-C0E0E0?style=for-the-badge&logo=opencv)](https://github.com/O-79/Image-Edit)
+[![Sonic-Edit](https://img.shields.io/badge/Sonic_Edit-C0E0E0?style=for-the-badge&logo=scipy)](https://github.com/O-79/Sonic-Edit)
+[![Scraping Extension](https://img.shields.io/badge/Scraping_Extension-C0E0E0?style=for-the-badge&logo=googlechrome)](https://github.com/O-79/SCRAPE_CHROME)
