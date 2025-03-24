@@ -4,6 +4,10 @@
 
 ### O-79
 
+## Site
+
 [My Website](https://o-79.github.io/)
 
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/O-79/Arena)
+## Latest Projects
+
+[![View on GitHub](https://img.shields.io/badge/Arena-ffff00&logo=github)](https://github.com/O-79/Arena)
