@@ -6,6 +6,4 @@
 
 [My Website](https://o-79.github.io/)
 
-[![BUT_Arena]][Arena]
-
-[BUT_Arena]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/O-79/Arena)
