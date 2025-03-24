@@ -11,4 +11,4 @@
 ### Past Projects
 [![Image-Edit](https://img.shields.io/badge/Image_Edit-D0D0D0?style=for-the-badge&logo=opencv)](https://github.com/O-79/Image-Edit)
 [![Sonic-Edit](https://img.shields.io/badge/Sonic_Edit-D0D0D0?style=for-the-badge&logo=scipy)](https://github.com/O-79/Sonic-Edit)
-[![Scraping Extension](https://img.shields.io/badge/Scraping_Extension-D0D0D0?style=for-the-badge&logo=nodedotjs)](https://github.com/O-79/SCRAPE_CHROME)
+[![Scraping Extension](https://img.shields.io/badge/Scraping_Extension-D0D0D0?style=for-the-badge&logo=googlechrome)](https://github.com/O-79/SCRAPE_CHROME)
