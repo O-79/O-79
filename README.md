@@ -1,10 +1,6 @@
 <div align=center>
 
-# O-79
-
-### Site
-
-[My Website](https://o-79.github.io/)
+[https://o-79.github.io/](#1-O-79)
 
 ### Latest Projects
 
