@@ -1,6 +1,6 @@
 <div align=center>
 
-[https://o-79.github.io/](#1-O-79)
+# [O-79](https://o-79.github.io/)
 
 ### Latest Projects
 
