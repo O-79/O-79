@@ -8,4 +8,4 @@
 
 [![BUT_Arena]][Arena]
 
-[BUT_Arena]: https://github.com/O-79/Arena
+[BUT_Arena]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
