@@ -10,4 +10,4 @@
 
 ## Latest Projects
 
-[![View on GitHub](https://img.shields.io/badge/Arena-ffff00&style=for-the-badge&logo=unity)](https://github.com/O-79/Arena)
+[![View on GitHub](https://img.shields.io/badge/logo=unity)](https://github.com/O-79/Arena)
