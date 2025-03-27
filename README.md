@@ -1,6 +1,6 @@
 <div align=center>
 
-# [O-79](https://o-79.github.io/)
+# [O-79](https://2ly.link/25sBe)
 
 ### Latest Projects
 
